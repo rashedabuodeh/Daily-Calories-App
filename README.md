@@ -73,3 +73,5 @@ npm run android
 ## 👨‍💻 Author
 
 Developed by [rashedabuodeh](https://github.com/rashedabuodeh).
+
+Acknowledgment: Based on the open-source React Native and Expo course by Brad Traversy.
